@@ -8,6 +8,7 @@ public class SpringMvcBasicsHomeworkAnswerApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(SpringMvcBasicsHomeworkAnswerApplication.class, args);
+
   }
 
 }
